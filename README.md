@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**hemsun/hemsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+Hi, I'm Hema!
 
-Here are some ideas to get you started:
+working in the HR domain for more than 7 years. I have my education in both computer science and Human resources. Currently I am enjoy deriving insights from data. I have always believed in continuous leraning and always looking ahead for a learning curve in all the projects I work on. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+##  Skills
+
+
+- Python (Pandas, scikit, statistics,Matplotlib, Seaborn)
+- SQL
+- PostgreSQL
+- Power BI
+
+#  Functional Areas
+- Data Analysis
+- Statistics
+- Data Visualization 
+- Dashboarding
+- Human Resources
+
+
+## Projects
+
+-  Analysis of Youtube videos using youtube API. 
+
+
+##  Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hemalathasundaramu.wixsite.com/my-portfolio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hemalathasundaramurthy)
+
