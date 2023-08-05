@@ -14,6 +14,7 @@ working in the HR domain for more than 7 years. I have my education in both comp
 - SQL
 - PostgreSQL
 - Power BI
+- -Git
 
 #  Functional Areas
 - Data Analysis
@@ -26,6 +27,7 @@ working in the HR domain for more than 7 years. I have my education in both comp
 ## Projects
 
 -  Analysis of Youtube videos using youtube API. (https://github.com/hemsun/Projects/tree/main/Youtube%20Channel%20Data%20Analysis)
+-  RFM Analysis 
 
 
 ##  Links
