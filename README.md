@@ -28,6 +28,8 @@ working in the HR domain for more than 7 years. I have my education in both comp
 
 -  Analysis of Youtube videos using youtube API. (https://github.com/hemsun/Youtube-Channel-Analysis.git)
 -  RFM Customer Segmentation Analysis (https://github.com/hemsun/RFM-Customer-Segmentation-Analysis.git)
+-  Attendance Insights - HR Analytics using Power BI (https://github.com/hemsun/Attendance-Analytics---Power-BI)
+   Dashboard Link (https://app.powerbi.com/view?r=eyJrIjoiNDE4Y2VjYWUtMGVhNC00ODU0LWJlOTItMzZjMzUxNmQ0YTJkIiwidCI6ImM5OWEyZmQzLTY3NmMtNDQ2Ny04NjE4LWMxZTMzMGVlY2MyZCJ9)
 
 
 ##  Links
