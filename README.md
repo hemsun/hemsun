@@ -14,7 +14,8 @@ working in the HR domain for more than 7 years. I have my education in both comp
 - SQL
 - PostgreSQL
 - Power BI
-- -Git
+- Git
+- Excel (Power Query, Power Pivot, DAX)
 
 #  Functional Areas
 - Data Analysis
