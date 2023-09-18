@@ -27,11 +27,11 @@ working in the HR domain for more than 7 years. I have my education in both comp
 
 ## Projects
 
--  Analysis of Youtube videos using youtube API. (https://github.com/hemsun/Youtube-Channel-Analysis/blob/d33deebb66159458c15f1a1d5a773795d27ca0be/Analysis%20of%20Codebasics%20Youtube%20Channel%20with%20youtube%20API.ipynb)
--  RFM Customer Segmentation Analysis (https://github.com/hemsun/RFM-Customer-Segmentation-Analysis/blob/757909bae50e9b499207df0702f3efa08c972982/rfm.ipynb)
--  Attendance Insights - HR Analytics using Power BI (https://github.com/hemsun/Attendance-Analytics---Power-BI/blob/9a067a74a38babd2967618d7b182db7cb21a758a/Attendance%20Analytics%20Dashboard.pdf)
--  Telengana Growth Analysis using Power BI (https://github.com/hemsun/Telengana-Growth-Analysis/blob/5b75e56419e79b78c1af0810ddf872b7daf8ceab/Telengana%20Governement%20Department%20Data%20Analysis.pdf)
--  HR Headcount Analysis using Power BI (https://github.com/hemsun/HR-Headcount-Analysis/blob/411cd4f94b19ee07aff2cd9d7a27e21d2605a3b8/HR%20Analytics_Headcount_Starters_Leavers_Turnover.pdf)
+-  [Analysis of Youtube videos using youtube API.](https://github.com/hemsun/Youtube-Channel-Analysis/blob/d33deebb66159458c15f1a1d5a773795d27ca0be/Analysis%20of%20Codebasics%20Youtube%20Channel%20with%20youtube%20API.ipynb)
+-  [RFM Customer Segmentation Analysis](https://github.com/hemsun/RFM-Customer-Segmentation-Analysis/blob/757909bae50e9b499207df0702f3efa08c972982/rfm.ipynb)
+-  [Attendance Insights - HR Analytics using Power BI](https://github.com/hemsun/Attendance-Analytics---Power-BI/blob/9a067a74a38babd2967618d7b182db7cb21a758a/Attendance%20Analytics%20Dashboard.pdf)
+-  [Telengana Growth Analysis using Power BI](https://github.com/hemsun/Telengana-Growth-Analysis/blob/5b75e56419e79b78c1af0810ddf872b7daf8ceab/Telengana%20Governement%20Department%20Data%20Analysis.pdf)
+-  [HR Headcount Analysis using Power BI](https://github.com/hemsun/HR-Headcount-Analysis/blob/411cd4f94b19ee07aff2cd9d7a27e21d2605a3b8/HR%20Analytics_Headcount_Starters_Leavers_Turnover.pdf)
 
 ## Power BI  Dashboards
 - [Attendance Analytics](https://app.powerbi.com/view?r=eyJrIjoiNDE4Y2VjYWUtMGVhNC00ODU0LWJlOTItMzZjMzUxNmQ0YTJkIiwidCI6ImM5OWEyZmQzLTY3NmMtNDQ2Ny04NjE4LWMxZTMzMGVlY2MyZCJ9)
