@@ -40,6 +40,6 @@ I'm a Certified data analytics professional with excellent analytical and commun
 
 
 ##  Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hemalathasundaramu.wixsite.com/my-portfolio)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Hemalatha-Sundaramurthy)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalathasundaramurthy)
 
