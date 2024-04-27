@@ -2,7 +2,7 @@
 ##  About Me
 Hi, I'm Hema!
 
-working in the HR domain for more than 9 years. I have my education in both computer science and Human resources. Currently I am enjoying deriving insights from data. I have always believed in continuous learning and always looking ahead for a learning curve in all the projects I work on. 
+I'm a Certified data analytics professional with excellent analytical and communication skills. Proficient in analyzing the requirements of the stakeholders and adept at translating them into actionable insights. 
 
 
 
